@@ -1,0 +1,17 @@
+.list-elements {
+  border: 1px solid #cccccc;
+  border-radius: 3px;
+  padding: 5px;
+  margin: 14px 0px 14px 0px;
+}
+
+.list-elements p {
+  margin: 4px 0px 0px 0px;
+}
+
+.radio-btn-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin: 4px 0px 0px 0px;
+}
